@@ -15,7 +15,7 @@ const LinkedInIcon = () => (
 function App() {
   return (
     <div className="container">
-      <h1>San</h1>
+      <h1>Santiago Bedoya</h1>
       <p>
         Full Stack Developer with 5 years of experience in software development, specialized in
         back-end technologies including C# .NET, REST API integrations, and SQL Server/NoSQL
